@@ -40,7 +40,7 @@ The bundled datasets reproduce Figure 5a of the paper for birnessite δ‑MnO2 
 ---
 
 ## Installation
-The toolkit is tested with Python 3.9 (≥ 3.9.7).
+The toolkit is tested with Python 3.9 (e.g., 3.9.7).
 Please create your environment with any 3.9-series interpreter before installing the requirements:
 ```bash
 pyenv install 3.9.7
