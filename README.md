@@ -4,6 +4,7 @@ A single-file Python demo that reproduces the electrochemical/optical analysis w
 
 The script fits chrono-amperometric (CA) transients and operando ΔOD traces with one unified kinetic model, delivering the key parameters.
 
+Note. This code is built on Python 3.9.7 Version
 ---
 
 ## Why do we need this?
